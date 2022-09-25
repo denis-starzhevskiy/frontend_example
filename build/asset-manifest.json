@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.323e1e81.css",
+    "main.js": "/static/js/main.e0c3e99f.js",
+    "static/media/coins.png": "/static/media/coins.c9cf11cdb91e1cf95093.png",
+    "static/media/NFT_image.png": "/static/media/NFT_image.8626f82dde08672f1fb8.png",
+    "static/media/tag.png": "/static/media/tag.2ee152a53cd6a069dffc.png",
+    "static/media/logo.png": "/static/media/logo.582f277df482597e002a.png",
+    "static/media/googleIcon.png": "/static/media/googleIcon.9db27c1011edb821b59c.png",
+    "index.html": "/index.html",
+    "main.323e1e81.css.map": "/static/css/main.323e1e81.css.map",
+    "main.e0c3e99f.js.map": "/static/js/main.e0c3e99f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323e1e81.css",
+    "static/js/main.e0c3e99f.js"
+  ]
+}
